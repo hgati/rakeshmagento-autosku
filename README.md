@@ -20,7 +20,7 @@ Here you need to configure the start integer for example start from : 1
 This is the length of the sku, for example for length 5 -> D0001.
 
 # ScreenShot
-![ScreenShot](http://octonism.com/sgit/magento2-auto-sku-generation.png)
+![ScreenShot](https://i.ibb.co/WGcx0HD/autosku.png)
 
 
 # Examples :-
